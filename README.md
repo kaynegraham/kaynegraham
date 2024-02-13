@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kayne</h1>
-<h3 align="center">A Javascript and LUA Developer</h3>
+<h3 align="center">A Javascript Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaynegraham&label=Profile%20views&color=0e75b6&style=flat" alt="kaynegraham" /> </p>
 
-- 🌱 I’m currently re-learning **Javascript & Discord.JS**
+- 🌱 I’m currently re-learning **cfxlua**
 
-- 💬 Ask me about **FiveM Development Issues**
+- 💬 Ask me about **Aviation ✈️**
 
 - 📫 How to reach me **kaynegrahamdev@icloud.com**
 
