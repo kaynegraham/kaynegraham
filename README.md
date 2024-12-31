@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaynegraham&label=Profile%20views&color=0e75b6&style=flat" alt="kaynegraham" /> </p>
 
-- 🌱 I’m currently re-learning **cfxlua**
+- 🌱 I’m currently interested in **cfxlua**
 
-- 💬 Ask me about **Aviation ✈️**
+- 💬 Ask me about **FiveM or Aviation ✈️**
 
 - 📫 How to reach me **kaynegrahamdev@icloud.com**
 
