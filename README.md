@@ -8,6 +8,7 @@
 - 🌱 Currently focused on **JavaScript & Web Development**
 - 🔨 Building small projects to strengthen frontend fundamentals
 - 💬 Ask me about **JavaScript, DOM manipulation, or beginner projects**
+- 💼 Previously worked on FiveM/Lua scripting projects, including modifying and extending existing codebases.
 - 📫 Reach me at **kaynegrahamdev@icloud.com**
 
 <h3 align="left">Languages and Tools:</h3>
