@@ -24,6 +24,3 @@
   </a>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kaynegraham&show_icons=true&locale=en" />
-</p>
