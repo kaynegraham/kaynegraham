@@ -32,7 +32,7 @@ Includes:
 - File share permissions
 - Virtual networking design
 
-👉 https://github.com/kaynegraham/microsoft-lab/
+👉 https://github.com/kaynegraham/onprem-lab/
 
 ---
 
