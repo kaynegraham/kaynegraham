@@ -5,14 +5,14 @@
 
 ## 🚀 About Me
 
-I'm transitioning into **IT support and systems administration**, building hands-on labs across on-premises Active Directory, Microsoft Entra ID, and cloud identity management to develop real-world MSP-ready skills.
+I'm transitioning into **IT support and systems administration**, building hands-on labs across on-premises Active Directory, Microsoft Entra ID, hybrid identity, and cloud identity management to develop real-world MSP-ready skills.
 
 Alongside IT infrastructure, I have a background in **JavaScript/TypeScript backend development** and enjoy building practical tools and automation projects.
 
 Currently focused on:
 - 🖥 Windows Server & Active Directory
 - ☁️ Microsoft Entra ID & Azure identity management
-- 🔀 Hybrid environments & Azure AD Connect
+- 🔀 Hybrid environments & Microsoft Entra Cloud Sync
 - 📱 Microsoft Intune & device management
 - 📚 CompTIA A+ certification
 - 🔧 Practical MSP-style IT support workflows
@@ -24,7 +24,6 @@ Currently focused on:
 
 ### 🖥 Windows Server Active Directory Home Lab
 Virtualised small business environment using Windows Server 2022 and Windows 11.
-
 Includes:
 - Active Directory Domain Services
 - DNS configuration & troubleshooting
@@ -38,21 +37,32 @@ Includes:
 
 ### ☁️ Microsoft Entra ID Identity Management Lab
 Cloud identity management lab simulating a small business Microsoft Entra ID environment.
-
 Includes:
 - User provisioning and lifecycle management
 - Department-based security & Microsoft 365 groups
 - Role-Based Access Control (RBAC)
 - Least privilege principles
-- Group membership audits
+- Conditional Access policies (MFA, location, risk-based, legacy auth)
 
 👉 https://github.com/kaynegraham/azure-lab/
 
 ---
 
+### 🔀 Hybrid Identity Lab — Microsoft Entra Cloud Sync
+Hybrid identity environment bridging on-premises Active Directory with Microsoft Entra ID.
+Includes:
+- Microsoft Entra Provisioning Agent installation and configuration
+- Group Managed Service Account (gMSA) setup
+- On-premises AD to Entra ID user synchronisation
+- Password hash sync
+- VirtualBox network troubleshooting for cloud connectivity
+
+👉 https://github.com/kaynegraham/hybrid-lab/
+
+---
+
 ### 🤖 FiveM API Wrapper (Node.js)
 API wrapper built for FiveM server integrations.
-
 Demonstrates:
 - API design and integration
 - Backend architecture
@@ -63,25 +73,13 @@ Demonstrates:
 
 ---
 
-### 🔒 External Security Bot (Node.js)
-Multi-server Discord security bot built for FiveM communities.
-
-Demonstrates:
-- API integration
-- Backend architecture
-- Middleware validation
-- Real-world deployment logic
-
-👉 https://github.com/kaynegraham/external_security/
-
----
-
 ## 🧠 Skills in Development
 
 **IT Infrastructure:**
 - Windows Server administration
 - Active Directory & DNS
-- Microsoft Entra ID & Azure
+- Microsoft Entra ID & hybrid identity
+- Conditional Access & MFA
 - Networking fundamentals
 - Virtualisation (VirtualBox)
 - Troubleshooting methodology
