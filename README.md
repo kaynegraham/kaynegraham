@@ -1,22 +1,32 @@
-<h1 align="center">Hi 👋, I'm Kayne</h1>
-<h3 align="center">Entry-Level IT Support • Home Lab Builder • CompTIA A+ Candidate</h3>
+<h1 align="center">Hi, I'm Kayne 👋</h1>
+<h3 align="center">IT Support Officer · Full Stack Developer · CompTIA A+ · MS-900</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm transitioning into **IT support and systems administration**, building hands-on labs across on-premises Active Directory, Microsoft Entra ID, hybrid identity, and cloud identity management to develop real-world MSP-ready skills.
+I work as a **Support Officer at a Managed Service Provider** in Perth, WA, where I provide L1/L2 support across a range of business and local government clients. My day-to-day covers Microsoft 365, Intune, Entra ID, hybrid identity, change management, and client infrastructure, working across tools like Sophos, Veeam, and the broader Microsoft ecosystem.
 
-Alongside IT infrastructure, I have a background in **JavaScript/TypeScript backend development** and enjoy building practical tools and automation projects.
+Alongside my MSP role I build full stack web applications and have a strong background in JavaScript/TypeScript development. I enjoy building things that solve real problems, whether that's internal tooling, client-facing web apps, or automation scripts.
 
-Currently focused on:
-- 🖥 Windows Server & Active Directory
-- ☁️ Microsoft Entra ID & Azure identity management
-- 🔀 Hybrid environments & Microsoft Entra Cloud Sync
-- 📱 Microsoft Intune & device management
-- 📚 CompTIA A+ certification
-- 🔧 Practical MSP-style IT support workflows
-- ⚙️ Backend development with Node.js & TypeScript
+Currently studying **CompTIA Network+** (due August 2026), having already completed **CompTIA A+** and **Microsoft MS-900**.
+
+---
+
+## 🖥 IT & Infrastructure
+
+What I work with day to day:
+
+- **Microsoft 365** Exchange, SharePoint, OneDrive, Teams administration
+- **Microsoft Intune & Autopilot** Device enrolment, Win32 app deployments, policy management
+- **Microsoft Entra ID** User lifecycle, RBAC, Conditional Access, hybrid identity
+- **Active Directory** AD DS, DNS, GPOs, OU structure
+- **Hybrid identity** Entra Cloud Sync, password hash sync
+- **Sophos Central** Endpoint and AD sync configuration
+- **Veeam** Backup monitoring and troubleshooting
+- **DMARC / DKIM** — Email security configuration
+- **Virtualisation** — Hyper-V, VirtualBox home lab environments
+- **Physical infrastructure** — server racking, cabling, iDRAC remote management
 
 ---
 
@@ -24,71 +34,73 @@ Currently focused on:
 
 ### 🖥 Windows Server Active Directory Home Lab
 Virtualised small business environment using Windows Server 2022 and Windows 11.
-Includes:
-- Active Directory Domain Services
-- DNS configuration & troubleshooting
-- Organisational Units & Group Policy
-- File share permissions
-- Virtual networking design
 
-👉 https://github.com/kaynegraham/onprem-lab/
+- Active Directory Domain Services, DNS, OUs, Group Policy
+- File share permissions and virtual networking design
+
+👉 [github.com/kaynegraham/onprem-lab](https://github.com/kaynegraham/onprem-lab)
 
 ---
 
 ### ☁️ Microsoft Entra ID Identity Management Lab
-Cloud identity management lab simulating a small business Microsoft Entra ID environment.
-Includes:
-- User provisioning and lifecycle management
-- Department-based security & Microsoft 365 groups
-- Role-Based Access Control (RBAC)
-- Least privilege principles
-- Conditional Access policies (MFA, location, risk-based, legacy auth)
+Cloud identity management lab simulating a small business Entra ID environment.
 
-👉 https://github.com/kaynegraham/azure-lab/
+- User provisioning, RBAC, Least privilege principles
+- Conditional Access policies, MFA, location-based, risk-based, legacy auth block
+
+👉 [github.com/kaynegraham/azure-lab](https://github.com/kaynegraham/azure-lab)
 
 ---
 
 ### 🔀 Hybrid Identity Lab — Microsoft Entra Cloud Sync
-Hybrid identity environment bridging on-premises Active Directory with Microsoft Entra ID.
-Includes:
-- Microsoft Entra Provisioning Agent installation and configuration
-- Group Managed Service Account (gMSA) setup
-- On-premises AD to Entra ID user synchronisation
-- Password hash sync
-- VirtualBox network troubleshooting for cloud connectivity
+Hybrid identity environment bridging on-premises AD with Microsoft Entra ID.
 
-👉 https://github.com/kaynegraham/hybrid-lab/
+- Entra Provisioning Agent, gMSA setup, password hash sync
+- AD to Entra ID user synchronisation, VirtualBox network configuration
+
+👉 [github.com/kaynegraham/hybrid-lab](https://github.com/kaynegraham/hybrid-lab)
 
 ---
 
-### 🤖 FiveM API Wrapper (Node.js)
-API wrapper built for FiveM server integrations.
-Demonstrates:
-- API design and integration
-- Backend architecture
-- TypeScript development
-- Real-world deployment logic
+### ⚙️ FiveM API Wrapper (Node.js / TypeScript)
+A lightweight Node.js + Express API wrapper written in TypeScript that normalises FiveM server data for external integrations.
 
-👉 https://github.com/kaynegraham/fivem-api-wrapper/
+- RESTful API design, TypeScript, Express
+- Real-world deployment and integration patterns
+
+👉 [github.com/kaynegraham/fivem-api-wrapper](https://github.com/kaynegraham/fivem-api-wrapper)
 
 ---
 
-## 🧠 Skills in Development
+## 💻 Development
 
-**IT Infrastructure:**
-- Windows Server administration
-- Active Directory & DNS
-- Microsoft Entra ID & hybrid identity
-- Conditional Access & MFA
-- Networking fundamentals
-- Virtualisation (VirtualBox)
-- Troubleshooting methodology
-- Technical documentation
+Outside of my MSP role I build full stack applications and scripts. I work primarily with:
 
-**Development:**
-- JavaScript / TypeScript
-- Node.js backend development
-- Lua scripting (FiveM)
+**Languages & Frameworks**
+- TypeScript / JavaScript
+- Node.js / Express
+- React / Next.js
+- Lua (scripting and game server development)
+- SQL
+
+**Tooling & Services**
+- Git / GitHub
+- Vercel
+- Supabase / PostgreSQL
+- Cloudflare (DNS, proxying, page rules)
+- REST APIs and third-party integrations
+
+I maintain a number of private repositories covering web applications, automation tooling, and game server resources. Happy to discuss specifics on request.
+
+---
+
+## 📜 Certifications
+
+| Certification | Status | Date |
+|---|---|---|
+| CompTIA A+ | ✅ Passed | March 2026 |
+| Microsoft MS-900 | ✅ Passed | June 2026 |
+| CompTIA Network+ | 🔄 In Progress | Due August 2026 |
 
 ---
 
@@ -98,6 +110,8 @@ Demonstrates:
 🔗 https://www.linkedin.com/in/kayne-graham-1876423a9/
 
 ---
+
+## 🛠 Tech Stack
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -120,6 +134,7 @@ Demonstrates:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40"/>
 </a>
 </p>
+
 
 ---
 
