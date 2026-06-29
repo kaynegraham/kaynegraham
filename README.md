@@ -24,9 +24,9 @@ What I work with day to day:
 - **Hybrid identity** Entra Cloud Sync, password hash sync
 - **Sophos Central** Endpoint and AD sync configuration
 - **Veeam** Backup monitoring and troubleshooting
-- **DMARC / DKIM** — Email security configuration
-- **Virtualisation** — Hyper-V, VirtualBox home lab environments
-- **Physical infrastructure** — server racking, cabling, iDRAC remote management
+- **DMARC / DKIM** Email security configuration
+- **Virtualisation** Hyper-V, VirtualBox home lab environments
+- **Physical infrastructure** Server racking, cabling, iDRAC remote management
 
 ---
 
