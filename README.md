@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Kayne 👋</h1>
-<h3 align="center">IT Support Officer · Full Stack Developer · CompTIA A+ · MS-900</h3>
+<h3 align="center">IT Support Officer · Full Stack Developer · CompTIA Network+ · CompTIA A+ · AB-900</h3>
 
 ---
 
