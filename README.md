@@ -9,7 +9,7 @@ I work as a **Support Officer at a Managed Service Provider** in Perth, WA, wher
 
 Alongside my MSP role I build full stack web applications and have a strong background in JavaScript/TypeScript development. I enjoy building things that solve real problems, whether that's internal tooling, client-facing web apps, or automation scripts.
 
-Currently studying **CompTIA Security+**, having already completed **CompTIA A+**, **CompTIA Network+** and **Microsoft MS-900**.
+Currently studying **CompTIA Security+**, having already completed **CompTIA A+**, **CompTIA Network+** and **Microsoft AB-900**.
 
 ---
 
