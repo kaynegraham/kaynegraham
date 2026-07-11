@@ -5,7 +5,7 @@
 
 ## About Me
 
-I work as a **Support Officer at a Managed Service Provider** in Perth, WA, where I provide L1/L2 support across a range of business and local government clients. My day-to-day covers Microsoft 365, Intune, Entra ID, hybrid identity, change management, and client infrastructure, working across tools like Sophos, Veeam, and the broader Microsoft ecosystem.
+I work as a **Support Officer at a Managed Service Provider** in Perth, WA, where I provide L1 support across a range of business and local government clients. My day-to-day covers Microsoft 365, Intune, Entra ID, hybrid identity, change management, and client infrastructure, working across tools like Sophos, Veeam, and the broader Microsoft ecosystem.
 
 Alongside my MSP role I build full stack web applications and have a strong background in JavaScript/TypeScript development. I enjoy building things that solve real problems, whether that's internal tooling, client-facing web apps, or automation scripts.
 
