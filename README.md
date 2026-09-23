@@ -101,7 +101,7 @@ I maintain a number of private repositories covering web applications, automatio
 | CompTIA A+ | ✅ Passed | March 2026 |
 | Microsoft MS-900 | ✅ Passed | June 2026 |
 | CompTIA Network+ | ✅ Passed | July 2026 |
-| CompTIA Security+ | 🔄 In Progress | Due August 2026 |
+| CompTIA Security+ | 🔄 In Progress | Due October 2026 |
 
 ---
 
