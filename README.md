@@ -1,118 +1,132 @@
-<h1 align="center">Hi, I'm Kayne 👋</h1>
-<h3 align="center">IT Support Officer · Full Stack Developer · CompTIA Network+ · CompTIA A+ · AB-900</h3>
+<h1 align="center">Hi, I'm Kayne</h1>
+<h3 align="center">IT Support Officer | CompTIA Security+ | Network+ | A+ | Microsoft AB-900</h3>
+<p align="center">Microsoft 365 and Endpoint Management | Physical Security | Field and Infrastructure Support</p>
 
 ---
 
 ## About Me
 
-I work as a **Support Officer at a Managed Service Provider** in Perth, WA, where I provide L1 support across a range of business and local government clients. My day-to-day covers Microsoft 365, Intune, Entra ID, hybrid identity, change management, and client infrastructure, working across tools like Sophos, Veeam, and the broader Microsoft ecosystem.
+I am an IT Support Officer at a Managed Services Provider in Perth, WA, providing Level 1 and Level 2 support for local government, community organisations and secure, access-controlled client sites. My work covers Microsoft 365, Intune, Autopilot, Entra ID, hybrid identity and client infrastructure, alongside physical security systems such as access control and video surveillance.
 
-Alongside my MSP role I build full stack web applications and have a strong background in JavaScript/TypeScript development. I enjoy building things that solve real problems, whether that's internal tooling, client-facing web apps, or automation scripts.
+Before moving into IT, I worked as an Asphalt Technician across metropolitan sites, which built my site safety awareness and hands-on field experience. I also volunteer as a firefighter with the WA Bush Fire Service.
 
-Currently studying **CompTIA Security+**, having already completed **CompTIA A+**, **CompTIA Network+** and **Microsoft AB-900**.
+I hold CompTIA Security+, Network+ and A+, along with Microsoft AB-900. I am building towards field-based technical roles in resources, FIFO and operational technology environments.
 
 ---
 
-## 🖥 IT & Infrastructure
+## IT and Infrastructure
 
 What I work with day to day:
 
-- **Microsoft 365** Exchange, SharePoint, OneDrive, Teams administration
-- **Microsoft Intune & Autopilot** Device enrolment, Win32 app deployments, policy management
-- **Microsoft Entra ID** User lifecycle, RBAC, Conditional Access, hybrid identity
-- **Active Directory** AD DS, DNS, GPOs, OU structure
-- **Hybrid identity** Entra Cloud Sync, password hash sync
-- **Sophos Central** Endpoint and AD sync configuration
-- **Veeam** Backup monitoring and troubleshooting
-- **DMARC / DKIM** Email security configuration
-- **Virtualisation** Hyper-V, VirtualBox home lab environments
-- **Physical infrastructure** Server racking, cabling, iDRAC remote management
+- **Microsoft 365:** Exchange, SharePoint, OneDrive and Teams administration, including Teams Rooms
+- **Microsoft Intune and Autopilot:** device enrolment, pre-provisioning, Win32 app deployments and policy management
+- **Microsoft Entra ID:** user lifecycle, RBAC, Conditional Access and hybrid identity
+- **Active Directory:** AD DS, DNS, GPOs and OU structure
+- **Hybrid identity:** Entra Cloud Sync and password hash sync
+- **Physical security:** triaging alarm and event tickets, supporting access control and video surveillance systems
+- **ServiceNow:** incident, request and task management in a large service desk
+- **Apple device management:** iOS and iPad preparation and enrolment using Apple Configurator
+- **Sophos Central and Veeam:** endpoint management, backup monitoring and troubleshooting
+- **DMARC and DKIM:** email security configuration
+- **Virtualisation:** Hyper-V and VirtualBox home lab environments
+- **Physical infrastructure:** server racking, cabling and iDRAC remote management
 
 ---
 
-## 🔧 Featured Projects
+## Featured Projects
 
-### 🖥 Windows Server Active Directory Home Lab
+### Windows Server Active Directory Home Lab
 Virtualised small business environment using Windows Server 2022 and Windows 11.
 
-- Active Directory Domain Services, DNS, OUs, Group Policy
+- Active Directory Domain Services, DNS, OUs and Group Policy
 - File share permissions and virtual networking design
 
-👉 [github.com/kaynegraham/onprem-lab](https://github.com/kaynegraham/onprem-lab)
+[github.com/kaynegraham/onprem-lab](https://github.com/kaynegraham/onprem-lab)
 
 ---
 
-### ☁️ Microsoft Entra ID Identity Management Lab
+### Microsoft Entra ID Identity Management Lab
 Cloud identity management lab simulating a small business Entra ID environment.
 
-- User provisioning, RBAC, Least privilege principles
-- Conditional Access policies, MFA, location-based, risk-based, legacy auth block
+- User provisioning, RBAC and least privilege principles
+- Conditional Access policies, MFA, location-based and risk-based access, and legacy authentication blocking
 
-👉 [github.com/kaynegraham/azure-lab](https://github.com/kaynegraham/azure-lab)
+[github.com/kaynegraham/azure-lab](https://github.com/kaynegraham/azure-lab)
 
 ---
 
-### 🔀 Hybrid Identity Lab — Microsoft Entra Cloud Sync
+### Hybrid Identity Lab: Microsoft Entra Cloud Sync
 Hybrid identity environment bridging on-premises AD with Microsoft Entra ID.
 
-- Entra Provisioning Agent, gMSA setup, password hash sync
-- AD to Entra ID user synchronisation, VirtualBox network configuration
+- Entra Provisioning Agent, gMSA setup and password hash sync
+- AD to Entra ID user synchronisation and VirtualBox network configuration
 
-👉 [github.com/kaynegraham/hybrid-lab](https://github.com/kaynegraham/hybrid-lab)
+[github.com/kaynegraham/hybrid-lab](https://github.com/kaynegraham/hybrid-lab)
 
 ---
 
-### ⚙️ FiveM API Wrapper (Node.js / TypeScript)
-A lightweight Node.js + Express API wrapper written in TypeScript that normalises FiveM server data for external integrations.
+### FiveM API Wrapper (Node.js / TypeScript)
+A lightweight Node.js and Express API wrapper written in TypeScript that normalises FiveM server data for external integrations.
 
-- RESTful API design, TypeScript, Express
+- RESTful API design, TypeScript and Express
 - Real-world deployment and integration patterns
 
-👉 [github.com/kaynegraham/fivem-api-wrapper](https://github.com/kaynegraham/fivem-api-wrapper)
+[github.com/kaynegraham/fivem-api-wrapper](https://github.com/kaynegraham/fivem-api-wrapper)
 
 ---
 
-## 💻 Development
+## Currently Building
 
-Outside of my MSP role I build full stack applications and scripts. I work primarily with:
+**Proxmox Security and Segmentation Lab** (planned)
 
-**Languages & Frameworks**
+- Proxmox virtualisation with Linux and Windows hosts
+- Network segmentation with VLANs and a firewall such as OPNsense or pfSense
+- Vulnerability scanning and security testing against my own isolated systems using Nessus and Metasploit, documented as findings and fixes
+- Exploring operational technology concepts, including a simulated PLC and Modbus traffic analysis
+
+---
+
+## Development
+
+Outside of work I build web applications and scripts. I work primarily with:
+
+**Languages and Frameworks**
 - TypeScript / JavaScript
 - Node.js / Express
 - React / Next.js
-- Lua (scripting and game server development)
+- Lua
 - SQL
 
-**Tooling & Services**
+**Tooling and Services**
 - Git / GitHub
 - Vercel
 - Supabase / PostgreSQL
 - Cloudflare (DNS, proxying, page rules)
 - REST APIs and third-party integrations
 
-I maintain a number of private repositories covering web applications, automation tooling, and game server resources. Happy to discuss specifics on request.
+I maintain a number of private repositories covering web applications, automation tooling and game server resources. Happy to discuss specifics on request.
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 | Certification | Status | Date |
 |---|---|---|
-| CompTIA A+ | ✅ Passed | March 2026 |
-| Microsoft MS-900 | ✅ Passed | June 2026 |
-| CompTIA Network+ | ✅ Passed | July 2026 |
-| CompTIA Security+ | 🔄 In Progress | Due October 2026 |
+| CompTIA A+ | Passed | April 2026 |
+| Microsoft AB-900 | Passed | May 2026 |
+| CompTIA Network+ | Passed | July 2026 |
+| CompTIA Security+ | Passed | October 2026 |
 
 ---
 
-## 📫 Contact
+## Contact
 
-📧 kaynegrahamdev@icloud.com
-🔗 https://www.linkedin.com/in/kayne-graham-1876423a9/
+Email: kaynegrahamdev@icloud.com
+LinkedIn: https://www.linkedin.com/in/kayne-graham-1876423a9/
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -135,7 +149,6 @@ I maintain a number of private repositories covering web applications, automatio
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40"/>
 </a>
 </p>
-
 
 ---
 
