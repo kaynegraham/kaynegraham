@@ -8,7 +8,7 @@
 
 I am an IT Support Officer at a Managed Services Provider in Perth, WA, providing Level 1 and Level 2 support for local government, community organisations and secure, access-controlled client sites. My work covers Microsoft 365, Intune, Autopilot, Entra ID, hybrid identity and client infrastructure, alongside physical security systems such as access control and video surveillance.
 
-Before moving into IT, I worked as an Asphalt Technician across metropolitan sites, which built my site safety awareness and hands-on field experience. I also volunteer as a firefighter with the WA Bush Fire Service.
+Before moving into IT, I worked as an Asphalt Technician across metropolitan and regional sites, which built my site safety awareness and hands-on field experience. I also volunteer as a firefighter with the WA Bush Fire Service.
 
 I hold CompTIA Security+, Network+ and A+, along with Microsoft AB-900. I am building towards field-based technical roles in resources, FIFO and operational technology environments.
 
