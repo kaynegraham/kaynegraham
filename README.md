@@ -2,9 +2,17 @@
 <h3 align="center">IT Support Officer | CompTIA Security+ | Network+ | A+ | Microsoft AB-900</h3>
 <p align="center">Microsoft 365 and Endpoint Management | Systems and Infrastructure | Web Development</p>
 
+<p align="center">
+<img src="https://img.shields.io/badge/Security%2B-Passed-C8202F?style=flat-square&logo=comptia&logoColor=white" alt="Security+"/>
+<img src="https://img.shields.io/badge/Network%2B-Passed-C8202F?style=flat-square&logo=comptia&logoColor=white" alt="Network+"/>
+<img src="https://img.shields.io/badge/A%2B-Passed-C8202F?style=flat-square&logo=comptia&logoColor=white" alt="A+"/>
+<img src="https://img.shields.io/badge/AB--900-Passed-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="AB-900"/>
+<img src="https://img.shields.io/badge/Location-Perth%2C%20WA-2EA44F?style=flat-square" alt="Perth, WA"/>
+</p>
+
 ---
 
-## About Me
+## 👋 About Me
 
 I am an IT Support Officer at a Managed Services Provider in Perth, WA, providing Level 1 and Level 2 support for local government, community organisations and secure, access-controlled client sites. My work covers Microsoft 365, Intune, Autopilot, Entra ID, hybrid identity and client infrastructure, alongside physical security systems such as access control and video surveillance.
 
@@ -14,9 +22,9 @@ Outside of work I run [Built for Perth](https://builtforperth.com.au), building 
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### KG Tech Lab
+### 🖥️ KG Tech Lab
 A home lab built from scratch on Proxmox behind a FortiGate 60E, documented step by step, including what broke and how I fixed it.
 
 - Proxmox VE, FortiGate firewall policies and static routing
@@ -27,7 +35,7 @@ A home lab built from scratch on Proxmox behind a FortiGate 60E, documented step
 
 ---
 
-### Tabi (coming soon)
+### ✈️ Tabi (coming soon)
 A free, open source trip planner. Built as an alternative to Wanderlog and road tested on a two week trip through Japan.
 
 - Shared list of places and things to do, added on the go
@@ -36,7 +44,7 @@ A free, open source trip planner. Built as an alternative to Wanderlog and road 
 
 ---
 
-### Built for Perth
+### 🛠️ Built for Perth
 My web design and IT services business for Perth tradies and small businesses.
 
 - Custom sites built with Next.js, TypeScript and Tailwind, deployed on Vercel
@@ -47,7 +55,7 @@ My web design and IT services business for Perth tradies and small businesses.
 
 ---
 
-### FiveM API Wrapper (Node.js / TypeScript)
+### 🎮 FiveM API Wrapper (Node.js / TypeScript)
 A lightweight Node.js and Express API wrapper written in TypeScript that normalises FiveM server data for external integrations.
 
 - RESTful API design, TypeScript and Express
@@ -57,7 +65,7 @@ A lightweight Node.js and Express API wrapper written in TypeScript that normali
 
 ---
 
-### Earlier Labs
+### 🧪 Earlier Labs
 
 | Lab | What it covers |
 |---|---|
@@ -67,7 +75,7 @@ A lightweight Node.js and Express API wrapper written in TypeScript that normali
 
 ---
 
-## Currently Building
+## 🔨 Currently Building
 
 - **KG Tech Lab:** second domain controller, a Windows 11 client with Group Policy, a Docker host, then real HTTPS certs and a lab-internal WireGuard setup
 - **AD automation:** PowerShell scripts to build OU structure, groups and bulk users from CSV
@@ -75,27 +83,27 @@ A lightweight Node.js and Express API wrapper written in TypeScript that normali
 
 ---
 
-## IT and Infrastructure
+## 🧰 IT and Infrastructure
 
 What I work with day to day:
 
-- **Microsoft 365:** Exchange, SharePoint, OneDrive and Teams administration, including Teams Rooms
-- **Microsoft Intune and Autopilot:** device enrolment, pre-provisioning, Win32 app deployments and policy management
-- **Microsoft Entra ID:** user lifecycle, RBAC, Conditional Access and hybrid identity
-- **Active Directory:** AD DS, DNS, GPOs and OU structure
-- **Hybrid identity:** Entra Cloud Sync and password hash sync
-- **Physical security:** triaging alarm and event tickets, supporting access control and video surveillance systems
-- **ServiceNow:** incident, request and task management in a large service desk
-- **Apple device management:** iOS and iPad preparation and enrolment using Apple Configurator
-- **Sophos Central and Veeam:** endpoint management, backup monitoring and troubleshooting
-- **DMARC and DKIM:** email security configuration
-- **Virtualisation:** Proxmox, Hyper-V and VirtualBox
-- **Networking:** FortiGate firewalls, static routing and Tailscale
-- **Physical infrastructure:** server racking, cabling and iDRAC remote management
+- ☁️ **Microsoft 365:** Exchange, SharePoint, OneDrive and Teams administration, including Teams Rooms
+- 📱 **Microsoft Intune and Autopilot:** device enrolment, pre-provisioning, Win32 app deployments and policy management
+- 🔐 **Microsoft Entra ID:** user lifecycle, RBAC, Conditional Access and hybrid identity
+- 🗂️ **Active Directory:** AD DS, DNS, GPOs and OU structure
+- 🔄 **Hybrid identity:** Entra Cloud Sync and password hash sync
+- 🚨 **Physical security:** triaging alarm and event tickets, supporting access control and video surveillance systems
+- 🎫 **ServiceNow:** incident, request and task management in a large service desk
+- 🍏 **Apple device management:** iOS and iPad preparation and enrolment using Apple Configurator
+- 🛡️ **Sophos Central and Veeam:** endpoint management, backup monitoring and troubleshooting
+- 📧 **DMARC and DKIM:** email security configuration
+- 🖥️ **Virtualisation:** Proxmox, Hyper-V and VirtualBox
+- 🌐 **Networking:** FortiGate firewalls, static routing and Tailscale
+- 🔌 **Physical infrastructure:** server racking, cabling and iDRAC remote management
 
 ---
 
-## Development
+## 💻 Development
 
 **Languages and Frameworks**
 - TypeScript / JavaScript
@@ -116,25 +124,26 @@ I maintain a number of private repositories covering web applications, automatio
 
 ---
 
-## Certifications
+## 🎓 Certifications
 
 | Certification | Status | Date |
 |---|---|---|
-| CompTIA A+ | Passed | April 2026 |
-| Microsoft AB-900 | Passed | May 2026 |
-| CompTIA Network+ | Passed | July 2026 |
-| CompTIA Security+ | Passed | October 2026 |
+| CompTIA A+ | ✅ Passed | April 2026 |
+| Microsoft AB-900 | ✅ Passed | May 2026 |
+| CompTIA Network+ | ✅ Passed | July 2026 |
+| CompTIA Security+ | ✅ Passed | October 2026 |
 
 ---
 
-## Contact
+## 📫 Contact
 
-Email: kaynegrahamdev@icloud.com
-LinkedIn: https://www.linkedin.com/in/kayne-graham-1876423a9/
+<a href="mailto:kaynegrahamdev@icloud.com"><img src="https://img.shields.io/badge/Email-kaynegrahamdev%40icloud.com-0078D4?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/kayne-graham-1876423a9/"><img src="https://img.shields.io/badge/LinkedIn-Kayne%20Graham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://builtforperth.com.au"><img src="https://img.shields.io/badge/Built%20for%20Perth-builtforperth.com.au-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Built for Perth"/></a>
 
 ---
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
