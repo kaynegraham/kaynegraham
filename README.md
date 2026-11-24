@@ -49,7 +49,6 @@ My web design and IT services business for Perth tradies and small businesses.
 
 - Custom sites built with Next.js, TypeScript and Tailwind, deployed on Vercel
 - Google Business Profile setup and local SEO
-- Microsoft 365 and Google Workspace setup, email and DNS
 
 [builtforperth.com.au](https://builtforperth.com.au)
 
