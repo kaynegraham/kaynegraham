@@ -45,7 +45,7 @@ A free, open source trip planner. Built as an alternative to Wanderlog and road 
 ---
 
 ### 🛠️ Built for Perth
-My web design and IT services business for Perth tradies and small businesses.
+My web design business for Perth tradies and small businesses.
 
 - Custom sites built with Next.js, TypeScript and Tailwind, deployed on Vercel
 - Google Business Profile setup and local SEO
