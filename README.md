@@ -30,6 +30,9 @@ A home lab built from scratch on Proxmox behind a FortiGate 60E, documented step
 - Proxmox VE, FortiGate firewall policies and static routing
 - Active Directory on Windows Server 2025: DNS, reverse zones, NTP and health checks
 - Remote access with Tailscale as a subnet router, working behind CGNAT
+- Ubuntu Docker host running Uptime Kuma, Portainer, Homarr, Pi-hole and Nginx Proxy Manager
+- Internal DNS with a wildcard domain and Let's Encrypt certs via Cloudflare DNS-01
+- Custom Node.js stats panel pulling live data from the Proxmox, Pi-hole, Portainer and Uptime Kuma APIs
 
 [github.com/kaynegraham/homelab](https://github.com/kaynegraham/homelab)
 
@@ -76,7 +79,7 @@ A lightweight Node.js and Express API wrapper written in TypeScript that normali
 
 ## 🔨 Currently Building
 
-- **KG Tech Lab:** second domain controller, a Windows 11 client with Group Policy, a Docker host, then real HTTPS certs and a lab-internal WireGuard setup
+- **KG Tech Lab:** Cloudflare Tunnel with Access for a public status page, a second domain controller, a Windows 11 client with Group Policy, AD Certificate Services and a lab-internal WireGuard setup
 - **AD automation:** PowerShell scripts to build OU structure, groups and bulk users from CSV
 - **Tabi:** getting it ready for a public open source release
 
@@ -97,7 +100,8 @@ What I work with day to day:
 - 🛡️ **Sophos Central and Veeam:** endpoint management, backup monitoring and troubleshooting
 - 📧 **DMARC and DKIM:** email security configuration
 - 🖥️ **Virtualisation:** Proxmox, Hyper-V and VirtualBox
-- 🌐 **Networking:** FortiGate firewalls, static routing and Tailscale
+- 🐳 **Containers:** Docker Compose, Portainer and Nginx Proxy Manager
+- 🌐 **Networking:** FortiGate firewalls, static routing, Tailscale and Pi-hole DNS
 - 🔌 **Physical infrastructure:** server racking, cabling and iDRAC remote management
 
 ---
@@ -153,6 +157,7 @@ I maintain a number of private repositories covering web applications, automatio
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40" height="40" alt="PowerShell"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40" alt="Lua"/>
 </p>
